@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9766'
     url: http://www.gutenberg.org/2009/agents/9766
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21208#Among-the-SiouxA-Story-of-the-Twin-Cities-and-the-Two-Dakotas
 gutenberg_issued: '2007-04-24'
 gutenberg_type: Text
 identifiers:
